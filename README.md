@@ -1,5 +1,5 @@
 # Практика
-KeepSOLID Practice 2025
+KeepSOLID Practice 2025. Виконала Птащенко Анастасія ІПЗ 2.01
 # Посилання
 https://fawxxc.github.io/CompuCore/
 # Опис
